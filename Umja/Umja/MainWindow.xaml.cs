@@ -23,8 +23,6 @@ namespace Umja
         public MainWindow()
         {
             InitializeComponent();
-            var parser = new Parser();
-            parser.Parse("C:\\Users\\Admin\\Desktop\\Umja\\Umja\\Umja\\uml (1).graphml");
         }
     }
 }
